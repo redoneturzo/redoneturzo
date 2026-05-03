@@ -1,4 +1,4 @@
-# Hi beautiful people, I'm Md Redone Prodhan Turzo
+# Hi beautiful people,This is Md Redone Prodhan Turzo
 
 ### 🎓 About Me:
 - 🏫 I'm currently pursuing a **B.Sc. in Software Engineering** at **Green University of Bangladesh**.
@@ -8,6 +8,6 @@
 
 
 <p align="center">
-<a href="https://redoneprodhan.github.io/redone_turzo.github.io/">
+<a href="https://redone_turzo.github.io/redone_turzo.github.io/">
   <img src="https://img.shields.io/badge/Visit-My_Portfolio-blue?style=for-the-badge&logo=github"></a>
 </p>
