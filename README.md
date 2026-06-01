@@ -1,4 +1,4 @@
-# Hi beautiful people,This is Md Redone Prodhan Turzo
+# Hi people,This is Md Redone Prodhan Turzo
 
 ### 🎓 About Me:
 - 🏫 I'm currently pursuing a **B.Sc. in Software Engineering** at **Green University of Bangladesh**.
