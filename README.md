@@ -2,7 +2,8 @@
 
 ### 🎓 About Me:
 - 🏫 I'm currently pursuing a **B.Sc. in Software Engineering** at **Green University of Bangladesh**.
-- 📖 I'm deep-diving into **C Programming**, **Discrete Mathematics**, and **Calculus**.
+- 📖 In my first semester, I studied **Structure programming**, **Discrete mathematics**, and **Calculus** in depth.
+- 📖 In my second semester, I am studying in depth **Data structures**, **Physics**, **Data structures lab**, and **Physics lab**.
 - 💻 I love exploring new technologies and building software solutions.
 - 🎯 My goal is to become a skilled Software Engineer.
 
