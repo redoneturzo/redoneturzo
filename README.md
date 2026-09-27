@@ -4,6 +4,12 @@
 
 I am an undergraduate B.Sc. student in Software Engineering at the Green University of Bangladesh, passionate about building useful, reliable, and secure software. My interests include software development and cybersecurity, and I am continuously working to strengthen my technical skills and grow as a software engineer.
 
+<p align="center">
+  <a href="https://redoneturzo.github.io/">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio" />
+  </a>
+</p>
+
 ---
 
 ### Current Academic & Technical Focus
@@ -22,12 +28,6 @@ I am focused on strengthening my fundamentals and gradually building the skills 
 My goal is to build a strong academic and technical foundation in Software Engineering, participate in meaningful projects, and continuously improve my programming, problem-solving, and software development skills. I aspire to become a highly skilled and security-conscious software engineer in Bangladesh, capable of developing reliable, innovative, and secure software solutions to address real-world challenges. In the long term, I hope to contribute to the growth of Bangladesh's technology sector and make a meaningful impact through software engineering and cybersecurity.
 
 I am particularly interested in opportunities that allow me to learn, contribute, and grow through **academic programs, scholarships, projects, and software engineering experiences**.
-
-<p align="center">
-  <a href="https://redoneturzo.github.io/">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-blue?style=for-the-badge&logo=github" alt="Visit My Portfolio" />
-  </a>
-</p>
 
 ### Profile Views
 
