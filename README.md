@@ -1,18 +1,15 @@
 # Md. Redone Prodhan Turzo
 
-###  About Me
+### About Me
 
-I am an undergraduate **B.Sc. student in Software Engineering** at **Green University of Bangladesh**, with a strong interest in programming, problem-solving, algorithms, and software development.
-
-I am continuously developing my technical foundation through academic coursework, programming practice, and hands-on laboratory work.
+I am an undergraduate B.Sc. student in Software Engineering at the Green University of Bangladesh, passionate about building useful, reliable, and secure software. My interests include software development and cybersecurity, and I am continuously working to strengthen my technical skills and grow as a software engineer.
 
 ---
 
-###  Current Academic & Technical Focus
+### Current Academic & Technical Focus
 
-- 🔹 Data Structures & Algorithms
-- 🔹 Problem Solving
 - 🔹 Structured Programming
+- 🔹 Data Structures & Algorithms
 - 🔹 Algorithm Analysis
 - 🔹 Linear Algebra & Vector Analysis
 - 🔹 Software Engineering Fundamentals
@@ -20,13 +17,11 @@ I am continuously developing my technical foundation through academic coursework
 
 I am focused on strengthening my fundamentals and gradually building the skills required to become a capable software engineer.
 
+### Future Goal
 
-###  Academic Goal
-
-My goal is to build a strong academic and technical foundation in **Software Engineering**, participate in meaningful projects, and continuously improve my programming and problem-solving abilities.
+My goal is to build a strong academic and technical foundation in Software Engineering, participate in meaningful projects, and continuously improve my programming, problem-solving, and software development skills. I aspire to become a highly skilled and security-conscious software engineer in Bangladesh, capable of developing reliable, innovative, and secure software solutions to address real-world challenges. In the long term, I hope to contribute to the growth of Bangladesh's technology sector and make a meaningful impact through software engineering and cybersecurity.
 
 I am particularly interested in opportunities that allow me to learn, contribute, and grow through **academic programs, scholarships, projects, and software engineering experiences**.
-
 
 <p align="center">
   <a href="https://redoneturzo.github.io/">
@@ -34,8 +29,7 @@ I am particularly interested in opportunities that allow me to learn, contribute
   </a>
 </p>
 
-
-###  Profile Views
+### Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=redoneturzo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
