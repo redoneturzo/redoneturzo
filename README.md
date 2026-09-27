@@ -8,14 +8,6 @@ I am continuously developing my technical foundation through academic coursework
 
 ---
 
-###  Academic Journey
-
-- 🏫 Currently pursuing a **B.Sc. in Software Engineering** at **Green University of Bangladesh**.
-- 📖 **1st Semester:** Studied **Structured Programming, Discrete Mathematics, and Calculus**.
-- 📖 **2nd Semester:** Studied **Data Structures, Physics, Data Structures Lab, and Physics Lab**.
-- 📖 **3rd Semester:** Currently studying **Algorithms, Algorithm Lab, EEE, EEE Lab, Linear Algebra, and Vector Analysis**.
-
-
 ###  Current Academic & Technical Focus
 
 - 🔹 Data Structures & Algorithms
