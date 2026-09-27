@@ -1,6 +1,6 @@
 # Md. Redone Prodhan Turzo
 
-### 🎓 About Me
+###  About Me
 
 I am an undergraduate **B.Sc. student in Software Engineering** at **Green University of Bangladesh**, with a strong interest in programming, problem-solving, algorithms, and software development.
 
@@ -8,7 +8,7 @@ I am continuously developing my technical foundation through academic coursework
 
 ---
 
-### 📚 Academic Journey
+###  Academic Journey
 
 - 🏫 Currently pursuing a **B.Sc. in Software Engineering** at **Green University of Bangladesh**.
 - 📖 **1st Semester:** Studied **Structured Programming, Discrete Mathematics, and Calculus**.
@@ -17,7 +17,7 @@ I am continuously developing my technical foundation through academic coursework
 
 ---
 
-### 💻 Current Academic & Technical Focus
+###  Current Academic & Technical Focus
 
 - 🔹 Data Structures & Algorithms
 - 🔹 Problem Solving
@@ -31,7 +31,7 @@ I am focused on strengthening my fundamentals and gradually building the skills 
 
 ---
 
-### 📊 GitHub Statistics
+###  GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=redoneturzo&show_icons=true&hide_border=true&rank_icon=github" alt="Redone Turzo's GitHub Stats" />
@@ -47,7 +47,7 @@ I am focused on strengthening my fundamentals and gradually building the skills 
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 I am currently working on improving my understanding of:
 
@@ -60,15 +60,13 @@ I am currently working on improving my understanding of:
 
 ---
 
-### 🎯 Academic Goal
+###  Academic Goal
 
 My goal is to build a strong academic and technical foundation in **Software Engineering**, participate in meaningful projects, and continuously improve my programming and problem-solving abilities.
 
 I am particularly interested in opportunities that allow me to learn, contribute, and grow through **academic programs, scholarships, projects, and software engineering experiences**.
 
 ---
-
-### 🌐 Portfolio
 
 <p align="center">
   <a href="https://redoneturzo.github.io/">
@@ -78,7 +76,7 @@ I am particularly interested in opportunities that allow me to learn, contribute
 
 ---
 
-### 👁️ Profile Views
+###  Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=redoneturzo&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
