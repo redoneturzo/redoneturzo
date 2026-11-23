@@ -29,6 +29,24 @@ My goal is to build a strong academic and technical foundation in Software Engin
 
 I am particularly interested in opportunities that allow me to learn, contribute, and grow through **academic programs, scholarships, projects, and software engineering experiences**.
 
+---
+
+### Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/redoneturzo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://codeforces.com/profile/red_one" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>
+
+---
+
 ### Profile Views
 
 <p align="center">
