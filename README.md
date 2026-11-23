@@ -2,7 +2,7 @@
 
 ### About Me
 
-I am an undergraduate B.Sc. student in Software Engineering at the Green University of Bangladesh, passionate about building useful, reliable, and secure software. My interests include software development and cybersecurity, and I am continuously working to strengthen my technical skills and grow as a software engineer.
+I am an undergraduate B.Sc. student in Software Engineering at the Green University of Bangladesh, passionate about building useful, reliable, and secure software. My interests include software development, network engineering and cybersecurity, and I am continuously working to strengthen my technical skills and grow as a software engineer.
 
 <p align="center">
   <a href="https://redoneturzo.github.io/">
@@ -37,7 +37,7 @@ I am particularly interested in opportunities that allow me to learn, contribute
   <a href="https://www.linkedin.com/in/redoneturzo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://codeforces.com/profile/red_one" target="_blank">
+  <a href="https://codeforces.com/profile/red__one" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.facebook.com/" target="_blank">
